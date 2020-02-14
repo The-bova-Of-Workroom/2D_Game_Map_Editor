@@ -1,4 +1,4 @@
-# 2D_Game_Map_Editor
+# 2D Game Map Editor
  간단한 2D 게임 맵을 만듦
 
 
